@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Kapil Panwar/h1>
+<h1 align="center">Hi 👋, I'm Kapil Panwar</h1>
 <h3 align="center">A Passionate competitive coder and MERN developer, diving into the world of challenges and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil&label=Profile%20views&color=0e75b6&style=flat" alt="kapil" /> </p>
@@ -77,4 +77,4 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik7906&show_icons=true&locale=en" alt="kartik7906" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilpanwar001&show_icons=true&locale=en" alt="kapil" /></p>
