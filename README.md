@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kapil-panwar-1a5480202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kpailpanwar001/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kapil-panwar-1a5480202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapil" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/kapil_panwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kapilpanwar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/kapilpanwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kapilpanwar001/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kapil" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kapilpanwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kapil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
