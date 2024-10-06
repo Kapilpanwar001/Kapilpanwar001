@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Kapil Panwar</h1>
-<h3 align="center">A Passionate competitive coder and MERN developer, diving into the world of challenges and innovation.</h3>
+<h3 align="center">A Passionate Competitive Coder and MERN developer, diving into the world of challenges and innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil&label=Profile%20views&color=0e75b6&style=flat" alt="kapil" /> </p>
 
