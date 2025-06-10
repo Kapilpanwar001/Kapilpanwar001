@@ -22,7 +22,7 @@
   <a href="https://leetcode.com/u/kapilpanwar/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kapil" height="30" width="40" />
   </a>
-  <a href="https://trailblazer.me/id/YOUR_TRAILHEAD_URL_HERE" target="blank">
+  <a href="https://www.salesforce.com/trailblazer/sdcn1ud7ypt2alwp1g" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/salesforce.png" alt="trailhead" height="30" width="40" />
   </a>
 </p>
