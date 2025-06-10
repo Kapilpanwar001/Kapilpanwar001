@@ -1,10 +1,11 @@
-### Hi
 <h1 align="center">Hi 👋, I'm Kapil Panwar</h1>
-<h3 align="center">A Passionate Competitive Coder and MERN developer, diving into the world of challenges and innovation.</h3>
+<h3 align="center">A Passionate Competitive Coder and Salesforce Developer — diving into the world of challenges and innovation.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil&label=Profile%20views&color=0e75b6&style=flat" alt="kapil" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kapil&label=Profile%20views&color=0e75b6&style=flat" alt="kapil" /> 
+</p>
 
-- 🌱 I’m currently learning *MERN*
+- 🌱 I’m currently learning *Salesforce*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kapilpanwar001](https://github.com/Kapilpanwar001)
 
@@ -20,6 +21,9 @@
   </a>
   <a href="https://leetcode.com/u/kapilpanwar/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kapil" height="30" width="40" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/sdcn1ud7ypt2alwp1g" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/salesforce.png" alt="trailhead" height="30" width="40" />
   </a>
 </p>
 
@@ -40,4 +44,5 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
   </a>
-</p>
+  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.co
